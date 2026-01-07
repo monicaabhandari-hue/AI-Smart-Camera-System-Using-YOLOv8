@@ -1,0 +1,7 @@
+yolo detect train ^
+data="C:\Users\monica\Desktop\Capstone\datasets\data.yaml" ^
+model=yolov8n.pt ^
+epochs=50 ^
+imgsz=640 ^
+project="C:\Users\monica\Desktop\Capstone" ^
+name="my_yolo_model"
